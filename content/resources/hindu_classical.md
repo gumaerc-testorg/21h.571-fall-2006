@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains a list of terms to know about regional powers
   and the making of "Hindu Classical" age.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-571-the-making-of-modern-south-asia-fall-2006/33b5493599c68e1fadeaefe9038f15ff_hindu_classical.pdf
+file: /media/courses/21h-571-the-making-of-modern-south-asia-fall-2006/33b5493599c68e1fadeaefe9038f15ff_hindu_classical.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: hindu_classical.pdf
 uid: 33b54935-99c6-8e1f-adea-efe9038f15ff

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c2cd97fe-fdd7-e66e-5f6c-535e7e47b9e6
 ---
@@ -52,7 +55,7 @@ IMPORTANT TERMS
 {{< tdopen >}}
 Introduction
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Selections from Doniger, Wendy, ed., and tr. _The Rig Veda_. Reprint ed. New York, NY: Penguin, 2005. ISBN: 9780140449891. Also available online: Griffith, Ralph T. H., tr. [_The Rig Veda_](http://www.sacred-texts.com/hin/rigveda/).
@@ -71,7 +74,7 @@ Begin reading R. K. Narayan. _The Ramayana_.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/indo_gangetic))
 {{< tdclose >}}
 
@@ -107,7 +110,7 @@ Religions and castes
 {{< tdopen >}}
 The Ramayana and the Mahabharata
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Selections from [_Arthashastra_](http://www.fordham.edu/halsall/india/kautilya1.html) and _Kamasutra_.
@@ -116,7 +119,7 @@ Chattopadhyaya, B. D. "Indian Archeology and the Epic Traditions." In _Studying 
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/hindu_classical))
 {{< tdclose >}}
 
@@ -143,7 +146,7 @@ Regional powers and the making of "Hindu Classical" age
 {{< tdopen >}}
 Indo-Persian imperial society
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Excerpts from the [_Quran_](https://www.alislam.org/quran/).
@@ -160,7 +163,7 @@ Begin Reading _The Travels of Dean Mahomet_.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/akbar))
 {{< tdclose >}}
 
@@ -187,7 +190,7 @@ India under Akbar
 {{< tdopen >}}
 The Indian Ocean trade
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Modern South Asia_. Chapter 5.
@@ -196,7 +199,7 @@ Dasgupta, Ashin. "Indian Merchants and Trade in the Indian Ocean, c. 1500-1750."
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -223,7 +226,7 @@ Life and times during the 18th century
 {{< tdopen >}}
 From traders to rulers
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Modern South Asia_. Chapters 6-8.
@@ -244,7 +247,7 @@ Bayly, C. A. "The Qasbah Under Pressure." In _Rulers, Townsmen and Bazaars: Nort
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/est_euro_comp))
 {{< tdclose >}}
 
@@ -271,7 +274,7 @@ The Sepoy Mutiny
 {{< tdopen >}}
 Film showing
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Film: Ray, Satyajit. [_Shatranj Ke Khiladi (The Chess Players)_](http://www.imdb.com/title/tt0076696/), 1977.
@@ -290,7 +293,7 @@ Sarkar, Tanika. "Rhetoric against the Age of Consent." _Economic and Political W
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/reform))
 {{< tdclose >}}
 
@@ -326,7 +329,7 @@ Resistance, reform, and revival
 {{< tdopen >}}
 Early nationalism
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 _Modern South Asia_. Chapters 12-14.
@@ -347,7 +350,7 @@ Bose, Sugata. "Nation, Reason and Religion." _Economic and Political Weekly_ (Au
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
  
 {{< tdclose >}}
 
@@ -383,7 +386,7 @@ India in the 1940's
 {{< tdopen >}}
 Why partition?
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 _Modern South Asia_. Chapters 15-17.
@@ -402,7 +405,7 @@ Film: Sathyu, M. S. [_Garam Hawa_](http://www.imdb.com/title/tt0073034/), 1973.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/partition))
 {{< tdclose >}}
 
@@ -438,7 +441,7 @@ Mid-term examination
 {{< tdopen >}}
 Experiments with democracy: Pakistan and Bangladesh
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 _Modern South Asia_. Chapter 18.
@@ -447,7 +450,7 @@ Jalal, Ayesha. "Exploding Communalism: The Politics of Identity in South Asia." 
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -474,7 +477,7 @@ The Sri Lankan story
 {{< tdopen >}}
 Economic development
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 _Modern South Asia_. Chapter 19.
@@ -495,7 +498,7 @@ Film: Patwardhan, Anand. [_In the Name of God_](http://www.patwardhan.com/films/
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
  
 {{< tdclose >}}
 
