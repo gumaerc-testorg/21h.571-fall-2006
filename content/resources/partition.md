@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2cd97fe-fdd7-e66e-5f6c-535e7e47b9e6
 resourcetype: Document
 title: partition.pdf
 uid: cf8759ee-ef89-75dd-c927-464a1d68ff27

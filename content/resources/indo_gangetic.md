@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2cd97fe-fdd7-e66e-5f6c-535e7e47b9e6
 resourcetype: Document
 title: indo_gangetic.pdf
 uid: 1914622a-ebbb-82d3-7cf2-f2bd75caf399

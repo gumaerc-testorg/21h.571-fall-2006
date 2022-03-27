@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2cd97fe-fdd7-e66e-5f6c-535e7e47b9e6
 resourcetype: Document
 title: reform.pdf
 uid: 7d9f00bf-0521-10ad-7d1a-8c100e83ef00
