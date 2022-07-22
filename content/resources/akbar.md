@@ -5,6 +5,7 @@ file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/c5af369bb0f1cc8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: akbar.pdf
 uid: c5af369b-b0f1-cc84-4cab-cc56c0db3ed4
 ---
 This resource contains a list of terms to know about India under Akbar.
-

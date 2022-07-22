@@ -5,6 +5,7 @@ file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/1914622aebbb82d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: indo_gangetic.pdf
 uid: 1914622a-ebbb-82d3-7cf2-f2bd75caf399
 ---
 This resource contains a list of terms to know about Indo-Gangetic civilizations.
-

@@ -5,6 +5,7 @@ file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/cf8759eeef8975d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: partition.pdf
 uid: cf8759ee-ef89-75dd-c927-464a1d68ff27
 ---
 This resource contains a list of terms to know about partition and independence.
-
