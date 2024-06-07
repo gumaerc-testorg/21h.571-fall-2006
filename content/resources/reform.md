@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a list of terms to know about reform, revival,
   and protest.
 file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/7d9f00bf052110ad7d1a8c100e83ef00_reform.pdf
+file_size: 21606
 file_type: application/pdf
 learning_resource_types:
 - Readings
