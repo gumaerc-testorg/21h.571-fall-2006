@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a list of terms to know about partition and independence.
-file: /ol-ocw-studio-app/courses/21h-571-the-making-of-modern-south-asia-fall-2006/cf8759eeef8975ddc927464a1d68ff27_partition.pdf
+file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/cf8759eeef8975ddc927464a1d68ff27_partition.pdf
 file_size: 21042
 file_type: application/pdf
 learning_resource_types:
